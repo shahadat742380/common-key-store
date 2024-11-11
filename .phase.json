@@ -1,0 +1,7 @@
+{
+  "version": "2",
+  "phaseApp": "test-app",
+  "appId": "aadf6368-9394-46c8-b097-39a6843c9c12",
+  "defaultEnv": "Production",
+  "envId": "edefadf8-bf6f-4356-9287-73ef7c87dc1b"
+}
